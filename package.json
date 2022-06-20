@@ -39,5 +39,8 @@
   "types": "dist/index.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github/Mishumo-Troy-Lumadi"
+  },
+  "dependencies": {
+    "@Mishumo-Troy-Lumadi/react-base-components": "^0.0.1"
   }
 }
